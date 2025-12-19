@@ -5,3 +5,9 @@ Execution.md
 # Progress tracking
 Progress/
 
+# Rust artifacts
+/target/
+**/*.rs.bk
+*.pdb
+Cargo.lock
+
